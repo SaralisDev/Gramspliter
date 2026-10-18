@@ -1,0 +1,11 @@
+{
+  "title": "GramSplit",
+  "description": "Calculate individual product prices based on weight and total cost, streamlining pricing for retailers and simplifying inventory management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
